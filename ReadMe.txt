@@ -1,3 +1,3 @@
-тзь штыефдд
+npm install
 
 Сервер запускать - node server.js
